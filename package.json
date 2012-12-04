@@ -1,6 +1,6 @@
 {
   "name": "intents-mailgun",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/mailgun.js",
   "description": "Mailgun integration with Intents.",
   "author": {

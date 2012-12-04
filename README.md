@@ -31,7 +31,7 @@ in app code:
 
 ## Example as standalone module
 
-    var intentsMailgun = require('intentsMailgun');
+    var intentsMailgun = require('intents-mailgun');
     var mail = intentsMailgun({key: 'MyMailgunKey'});
     
     mail.send({
